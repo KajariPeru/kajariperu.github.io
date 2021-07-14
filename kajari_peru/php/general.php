@@ -1,6 +1,0 @@
-<?php
-
-$kajariweb = "gf";
-
-
-?>
